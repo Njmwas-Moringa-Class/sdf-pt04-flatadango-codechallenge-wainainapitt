@@ -1,5 +1,3 @@
-// code here
-
 // Define the base URL for the movie API
 
 const baseUrl = 'http://localhost:3000';

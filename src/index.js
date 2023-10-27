@@ -109,3 +109,6 @@ buyTicketButton.addEventListener('click', () => {
 // Initial fetch to load the list of movies and the details of the first movie
 
 fetchMovieList();
+ 
+// Nice Challenge looking forward to more
+
